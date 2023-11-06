@@ -1,3 +1,4 @@
+"use strict"
 const numbersOfMovies = +prompt("How many movies have you wached?", "");
 let personalMovieDB = {
     count: numbersOfMovies,
